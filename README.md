@@ -9,17 +9,17 @@ This is a simple chat system implemented using Socket.io and Node.js. The projec
 
 - Login page:
 
-    <img src="public/Images/demo1.png" width="650" height="auto">
+    <img src="frontend/public/Screenshot 2024-07-14 110346.png" width="650" height="auto">
 
     
 - SignUp page:
 
-    <img src="public/Images/demo1.png" width="650" height="auto">
+    <img src="frontend/public/Screenshot 2024-07-14 110402.png" width="650" height="auto">
 
 
 - Chat room:
 
-    <img src="public/Images/demo2.png" width="650" height="auto">
+    <img src="frontend/public/Screenshot 2024-07-14 110513.png" width="650" height="auto">
 
 ## Features
 
