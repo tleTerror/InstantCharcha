@@ -5,6 +5,22 @@ Live Website Link: https://instantcharcha.onrender.com
 
 This is a simple chat system implemented using Socket.io and Node.js. The project provides a real-time messaging platform where users can join chat rooms and communicate with each other.->It's INSTANT CHARCHA
 
+## Demo:
+
+- Login page:
+
+    <img src="public/Images/demo1.png" width="650" height="auto">
+
+    
+- SignUp page:
+
+    <img src="public/Images/demo1.png" width="650" height="auto">
+
+
+- Chat room:
+
+    <img src="public/Images/demo2.png" width="650" height="auto">
+
 ## Features
 
 - Real-time messaging: Users can send and receive messages in real time, creating a seamless chat experience.
@@ -12,6 +28,7 @@ This is a simple chat system implemented using Socket.io and Node.js. The projec
 - Private messaging: The system supports private messaging between users, allowing for one-on-one conversations.
 - Online user indicator: The system displays an indicator at top of user to indicate online status.
 - Ping Sound: The system makes a ping sound whenever a user send/recieves message.
+- Search Facility: Users can search for existing accounts in chat-app.
 
 ## Technologies Used
 
